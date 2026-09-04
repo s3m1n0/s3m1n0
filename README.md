@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Languages](https://vani-stats.vercel.app/api?username=s3m1n0&theme=tokyonight)
+![Top Languages](https://vani-stats.vercel.app/api?username=s3m1n0&theme=light)
