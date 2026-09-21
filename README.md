@@ -27,23 +27,16 @@ Linux · Git · Docker  · SQLite
 
 A Magic: The Gathering rules engine written in C++, with Lua scripts for card definitions and behavior.
 
-The idea is to keep the game engine independent from the UI while making cards easy to define, extend, and experiment with through Lua scripts:
+The idea is to keep the game engine independent from the UI while making cards easy to define, extend, and experiment with through Lua scripts.
+im currently not sure where things will go :p im still in the first steps in this 
 
-                 ┌─────────────────┐
-                 │    Manabound    │
-                 │   C++ Engine    │
-                 └────────┬────────┘
-                          │
-              ┌───────────┼───────────┐
-              ▼           ▼           ▼
-             Web         CLI         TUI
-                          │
-                          ▼
-                    Lua Card Scripts
+🧠 BFX — Brainfuck Execute!
 
-I'm particularly interested in systems programming, scripting language integration, game rules modeling, concurrency, and keeping the core engine independent of its frontends.
+A Brainfuck runtime written in C++.
 
----
+The current goal is to build a small, well-defined runtime for executing Brainfuck programs, with JIT compilation as a future direction.
+
+It's partly a practical project and partly an excuse to explore interpreters, memory models, instruction dispatch, and eventually code generation.
 
 🔐 Interests
 
