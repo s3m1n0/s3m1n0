@@ -1,18 +1,70 @@
-## Hi there 👋
 
-<!--
-**s3m1n0/s3m1n0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Semino 👋
 
-Here are some ideas to get you started:
+Developer · Systems programmer · Linux user
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like building things, figuring out how they work, and occasionally going unnecessarily deep into the internals.
 
-![Top Languages](https://vani-stats.vercel.app/api?username=s3m1n0&theme=light)
+My main interests are systems programming, programming languages, Linux, open source, and game development.
+
+---
+
+🛠️ What I work with
+
+Languages
+
+C++ · Lua · Python · Rust  · JavaScript 
+
+Technologies
+
+Linux · Git · Docker  · SQLite
+
+---
+
+🔭 Current projects
+
+🃏 Manabound
+
+A Magic: The Gathering rules engine written in C++, with Lua scripts for card definitions and behavior.
+
+The idea is to keep the game engine independent from the UI while making cards easy to define, extend, and experiment with through Lua scripts:
+
+                 ┌─────────────────┐
+                 │    Manabound    │
+                 │   C++ Engine    │
+                 └────────┬────────┘
+                          │
+              ┌───────────┼───────────┐
+              ▼           ▼           ▼
+             Web         CLI         TUI
+                          │
+                          ▼
+                    Lua Card Scripts
+
+I'm particularly interested in systems programming, scripting language integration, game rules modeling, concurrency, and keeping the core engine independent of its frontends.
+
+---
+
+🔐 Interests
+
+- Systems programming
+- C++ and Lua
+- Linux internals
+- Programming languages
+- Game development
+- Reverse engineering
+- Networking
+- Open source
+
+---
+
+📊 GitHub
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=s3m1n0&show_icons=true&theme=transparent&hide_border=true" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3m1n0&layout=donut&theme=transparent&hide_border=true" height="180"/></div>---
+
+🌐 Elsewhere
+
+- 🌐 Blog: pixeltanz.org
+- 💻 GitHub: "@s3m1n0" (https://github.com/s3m1n0)
+
+---
