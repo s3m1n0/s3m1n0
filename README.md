@@ -5,6 +5,6 @@ I use those programming languages:
 - Python
 - Rust
 - C++ and C
-- javascript
+- JavaScript
 
 I currently don't have a blog, but you can read about my projects in this [GitHub repo](https://github.com/s3m1n0/Recreational-programming): 
