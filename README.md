@@ -3,7 +3,7 @@ Hello, I'm Semino. And I do recreational programming in my free time :)
 I use those programming languages:
 
 - Python
-- Rust
+- Zig 
 - C++ and C
 - JavaScript
 
